@@ -1,0 +1,9 @@
+# Logs
+logs
+*.log
+
+# IDE
+.idea
+
+# config
+config.json
