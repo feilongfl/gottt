@@ -1,0 +1,8 @@
+{
+  "webserver": {
+    "listen": 8080
+  },
+  "worker": {
+    "listen": 8081
+  }
+}

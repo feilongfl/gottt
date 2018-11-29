@@ -1,6 +1,6 @@
-# gottt
+# gottt-web
 
-> gottt
+> web managent for gottt
 
 ## Build Setup
 
